@@ -133,7 +133,6 @@ button {
     transform: translateY(-3px);
 }
 
-/* Large Devices, Wide Screens */
 
 @media only screen and (max-width : 1500px) {
 }
